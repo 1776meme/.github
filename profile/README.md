@@ -28,8 +28,11 @@ No presale. No team allocation from the curve. Transparent fees (1% trading spli
   Shareable token page, basic analytics/insights, **ERC-20 bulk transfer** for giveaways and ops.
 - **Chains & raised tokens**
   Chains: **Ethereum**, **Monad Testnet** (Monad mainnet when live).
+
   Raised tokens by chain:
+
   • **Ethereum:** $ETH, $USD1, $WLFI
+
   • **Monad Testnet:** $MON
 
 ## 🌟 Why Choose 1776.meme
