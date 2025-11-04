@@ -44,5 +44,5 @@ No presale. No team allocation from the curve. Transparent fees (1% trading spli
 For more details about our project, please feel free to reach out to us. Below are the best ways to contact our team:
 
 - **Website:** [https://1776.meme](https://1776.meme/)
-- **X (Twitter):** https://x.com/1776meme_
+- **X (Twitter):** https://x.com/1776meme\_
 - **Email:** contact@1776.meme
